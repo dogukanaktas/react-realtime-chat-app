@@ -39,6 +39,11 @@ html, body {
   letter-spacing: 1px;
 }
 
+.heading:hover {
+  text-shadow: 0 0 3px ;
+  transition: .3s all;
+}
+
 .button {
     color: #fff !important;
     text-transform: uppercase;
